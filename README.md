@@ -1,11 +1,6 @@
 # SSD Website
 
 ## Front End Project (BCIT - SSD Website)
-
-**Collaborators:** 
-  * Athena Kozak
-  * Albert Kozak
-  * Kasra Niktash
   
 **Preview:**
 ![picture](screenshots/ssd-1.png)
